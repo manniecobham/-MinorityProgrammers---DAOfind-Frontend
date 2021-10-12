@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/DAOfind-Frontend/static/css/main.60183182.chunk.css",
+    "main.js": "/DAOfind-Frontend/static/js/main.b0f88542.chunk.js",
+    "main.js.map": "/DAOfind-Frontend/static/js/main.b0f88542.chunk.js.map",
+    "runtime-main.js": "/DAOfind-Frontend/static/js/runtime-main.436c5dd0.js",
+    "runtime-main.js.map": "/DAOfind-Frontend/static/js/runtime-main.436c5dd0.js.map",
+    "static/js/2.93ddbb0d.chunk.js": "/DAOfind-Frontend/static/js/2.93ddbb0d.chunk.js",
+    "static/js/2.93ddbb0d.chunk.js.map": "/DAOfind-Frontend/static/js/2.93ddbb0d.chunk.js.map",
+    "index.html": "/DAOfind-Frontend/index.html",
+    "static/css/main.60183182.chunk.css.map": "/DAOfind-Frontend/static/css/main.60183182.chunk.css.map",
+    "static/js/2.93ddbb0d.chunk.js.LICENSE.txt": "/DAOfind-Frontend/static/js/2.93ddbb0d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.436c5dd0.js",
+    "static/js/2.93ddbb0d.chunk.js",
+    "static/css/main.60183182.chunk.css",
+    "static/js/main.b0f88542.chunk.js"
+  ]
+}
